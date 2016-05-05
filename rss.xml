@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RETURN OF JESUS CHRIST ???]]></title>
+        <description><![CDATA[RETURN OF JESUS CHRIST ???]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 07:27:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wildfires in Canada]]></title>
+            <description><![CDATA[<article><h1>Wildfires in Canada</h1><p>An out-of-control wildfire destroyed much of one neighborhood in the remote Canadian city of Fort McMurray and badly damaged other areas, the local government said on Wednesday, hours after it ordered all 80,000 residents to leave in the biggest evacuation in the area's history.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00f42bd40d53b17fe6eb6069633025b166e5b1de.jpg"></article>]]></description>
+            <link>https://www.yahoo.com/news/wildfires-canada-135432656.html</link>
+            <guid isPermaLink="false">16b0c729-0be5-48cd-8495-a8751a675da4</guid>
+            <pubDate>Thu, 05 May 2016 07:27:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
