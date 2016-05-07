@@ -1,4 +1,4 @@
-name: END TIMES
+name: 'CURRENT WORLD EVENTS !!!'
 favicon: null
 layout_spectrum: 0.5220370600000024
 typography_spectrum: 0.4390845687594265
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.6055743917822838
-  lightness: 0.37305340683087707
-  saturation: 0.20176457543857396
+    - '#0a9311'
+    - '#0e0307'
+    - '#5edceb'
+    - '#d0cd0e'
+    - '#e26334'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.6859450018964708
 purpose: []
