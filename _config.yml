@@ -1,29 +1,42 @@
-name: 'CURRENT WORLD EVENTS !!!'
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.4390845687594265
-title: RETURN OF JESUS CHRIST ???
+name: BEST EASIEST WEBSITE BUILD PROGRAM !!!
+analytics: {}
+purpose: []
+github: true
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
+author:
+  name: Joseph M. Avila
+  email: josephavila@yahoo.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 1
 color:
+  lightness: 0.5
   brandColors:
     - '#0a9311'
     - '#0e0307'
     - '#5edceb'
     - '#d0cd0e'
     - '#e26334'
-  brandStrength: 0.5
-  lightness: 0.5
   saturation: 0.5
+  brandStrength: 0.5
   rhythmicContrast: 0.6859450018964708
-purpose: []
+content_rating:
+  adult: false
+typography_spectrum: 0.4390845687594265
+opengraph: {}
+title: 'The Grid Al''s IO , Website Program Biulder'
+url: 'https://thegrid.ai/NEWESTBESTBUILDWEBSITEPROGRAM'
